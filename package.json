@@ -1,0 +1,22 @@
+{
+  "name": "google_spreadsheet_for_node",
+  "version": "1.0.0",
+  "description": "Node.jsでGoogleスプレッドシートを読み取るための雛形",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keitalab/google_spreadsheet_for_node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keitalab/google_spreadsheet_for_node.js/issues"
+  },
+  "homepage": "https://github.com/keitalab/google_spreadsheet_for_node.js#readme",
+  "dependencies": {
+    "google-spreadsheet": "^2.0.4"
+  }
+}
